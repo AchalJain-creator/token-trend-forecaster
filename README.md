@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to your Tocken Trend
 
-TODO: Document your project here
+All that you will need is here
